@@ -1,0 +1,8 @@
+.logo{
+    max-height: 70px;
+    height: 100%;
+}
+
+.btn-cust:hover{
+    color:#fff !important;
+}
